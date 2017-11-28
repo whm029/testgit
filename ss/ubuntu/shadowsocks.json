@@ -1,0 +1,9 @@
+{
+    "server":"45.56.86.139",
+    "server_port":11962,
+    "password":"70764270",
+    "method":"aes-256-cfb",
+    "local_address":"127.0.0.1",
+    "local_port":1080,
+    "timeout":600
+}
